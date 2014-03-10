@@ -11,7 +11,7 @@ WatchPlus adds alternative watches and gadgets to Arma 3. More planned gagets ar
 - Military Diver Navegation Board (http://www.specwargear.com/images/dive-TAC%20broad-2.jpg)
 - Karmin KoreTrex 401 (http://www.nextdaypc.com/main/productimages/new/large/8415290.jpg)
 
-### Requeriments
+### Requirements
 
 - ArmA3
 - Community Base Addons for ArmA3
