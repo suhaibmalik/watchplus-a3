@@ -1,8 +1,7 @@
 ﻿WatchPlus for ArmA3
 ============
 
-This ArmA3 addon provide new additional watches *(and other gadgets)* with *planned* new features
-like altimeter, barometer and much more
+WatchPlus adds alternative watches and gadgets to Arma 3. More planned gagets are an altimeter, barometer, and more variations of watches.
 
 
 ### New Watches
