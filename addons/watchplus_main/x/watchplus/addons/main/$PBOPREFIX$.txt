@@ -1,0 +1,7 @@
+\x\watchplus\addons\main
+======<HEADER>=======
+prefix=\x\watchplus\addons\main
+Mikero=DePbo.dll
+Pbo Type is: Arma Addon
+Sha: 'BE82953D77D4090460B14D5D04C3880D01B6B783'
+======</HEADER>============
